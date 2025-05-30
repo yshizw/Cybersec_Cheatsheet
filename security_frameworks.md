@@ -1,5 +1,5 @@
-## Security Frameworks and Controls
-
+## Security Frameworks and Controls  
+  
 ## Definition of Security Frameworks:
 
 Guidelines used for building plans to help mitigate risk and threats to data and privacy.  
@@ -22,7 +22,7 @@ Provides a structured approach to implementing (and managing) a **Security Lifec
 3. **Implementing strong security processes**
 > Example: in GDPR, a security analyst at a social media company helps create steps to make sure the company follows users’ requests about their personal data. This could happen when a user wants to change or delete their profile information.
 > Outcome: The security processes ensure these user requests are handled correctly and safely.
-4.**Monitoring and Communicating** results
+4. **Monitoring and Communicating** results
 > Example: Monitoring a organization's internal network and reporting a potential security issue that affects LGPD to the manager or person responsible for compliance.  
 
 ### Security Lifecycle:
